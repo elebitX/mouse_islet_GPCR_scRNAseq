@@ -40,7 +40,7 @@ Cell-type annotations should be validated using multiple established marker gene
 ```text
 .
 ├── README.md
-└── notebooks/
+└── workflow_code/
     ├── mouse_islet_scRNAseq_clustering.ipynb
     ├── mouse_islet_scRNAseq_DEG.ipynb
     ├── mouse_islet_scRNAseq_DE_Gpcrs.ipynb
