@@ -14,15 +14,11 @@ Please refer to the GEO records and their associated publication for complete sa
 
 ## Analyses included in this repository
 
-1. Import of 10x Genomics gene-expression matrices
-2. Cell- and gene-level quality control
-3. Library-size normalization and log transformation
-4. Highly variable gene selection
-5. Principal component analysis (PCA)
-6. Neighborhood graph construction and UMAP visualization
-7. Leiden clustering and marker-based cell-type annotation
-8. Reference-based transfer of cell-type labels between CD and HFD datasets
-9. Generation of cell-type-level count matrices for pseudobulk analysis
+1. scRNA-seq preprocessing, integration, clustering, and cell-type annotation
+2. Differentially expressed gene (DEG) analysis
+3. Gene set enrichment analysis (GSEA)
+4. GPCR gene mapping and expression analysis
+5. Data visualization and figure generation
 
 ## Cell populations
 
