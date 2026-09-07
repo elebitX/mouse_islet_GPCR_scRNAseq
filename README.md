@@ -9,7 +9,6 @@ The workflow is implemented in Python using [Scanpy](https://scanpy.readthedocs.
 The current analysis notebook uses publicly available mouse pancreatic islet scRNA-seq data associated with the following GEO records:
 
 - [GSE203151](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203151)
-- [GSM6160615](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6160615)
 
 Please refer to the GEO records and their associated publication for complete sample metadata, experimental design, and data-access information.
 
@@ -46,7 +45,11 @@ Cell-type annotations should be validated using multiple established marker gene
 .
 ├── README.md
 └── notebooks/
-    └── mouse_islet_scanpy_workflow.ipynb
+    ├── mouse_islet_scRNAseq_clustering.ipynb
+    ├── mouse_islet_scRNAseq_DEG.ipynb
+    ├── mouse_islet_scRNAseq_DE_Gpcrs.ipynb
+    ├── mouse_islet_scRNAseq_gsea.ipynb
+    └── mouse_islet_scRNAseq_plotting.ipynb
 ```
 
 ## Requirements
