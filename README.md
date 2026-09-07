@@ -74,8 +74,6 @@ For reproducibility, record the exact package versions in an `environment.yml` o
 3. Add the true biological sample identifiers and experimental conditions to `adata.obs`.
 4. Run the notebook cells in order.
 
-> [!IMPORTANT]
-> Pseudobulk differential-expression analysis requires genuine biological replicates. Randomly dividing cells from one sample into groups does not create valid replicates. Counts should be aggregated by the original animal or biological sample and cell type.
 
 ## Citation
 
