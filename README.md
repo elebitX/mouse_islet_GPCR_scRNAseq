@@ -81,6 +81,10 @@ For reproducibility, record the exact package versions in an `environment.yml` o
 
 If you use the datasets analyzed in this repository, please cite the original study associated with the GEO records. Add the project-specific manuscript citation here when available.
 
+## Copyright
+
+Dr Zekun Lyu
+
 ## License
 
 Add the license governing reuse of the code in this repository, for example an MIT `LICENSE` file.
