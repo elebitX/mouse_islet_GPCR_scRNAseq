@@ -33,7 +33,6 @@ The workflow identifies the following major pancreatic cell populations:
 - Macrophages
 - Mesenchymal stromal cells
 
-Cell-type annotations should be validated using multiple established marker genes and the biological context of the original study.
 
 ## Repository structure
 
