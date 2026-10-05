@@ -72,7 +72,7 @@ For reproducibility, record the exact package versions in an `environment.yml` o
 
 ## Citation
 
-If you use the datasets analyzed in this repository, please cite the original study associated with the GEO records. Add the project-specific manuscript citation here when available.
+If you use the datasets analyzed in this repository, please cite the original study associated with the GEO records. The project-specific manuscript citation will be added here when available.
 
 ## Copyright
 
